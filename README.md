@@ -48,7 +48,9 @@ Using the generated map:
 
 Below is the reconstructed map obtained from Task 1:
 
-![map](map.png)
+<img width="508" height="326" alt="map" src="https://github.com/user-attachments/assets/cdcbf2d0-b08b-43f1-8053-692745b14a91" />
+
+
 
 *(File stored in `second_project/map/map.png`)*
 
